@@ -1,0 +1,7 @@
+song 1,artist 1,70,79,7,Chill
+song 2,artist 1,103,87,9,Happy
+song 3,artist 1,150,50,5,Tense
+song 4,artist 2,60,40,7,Sad
+song 5,artist 1,80,50,8,Calm
+Believer,Imagine Dragons,125,85,7,Energetic
+sdfsdaf,ddfsdf,45,76,5,Chill
